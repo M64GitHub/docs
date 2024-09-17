@@ -352,3 +352,7 @@ li {
     zoom: 1.4;
   }
 }
+
+#content p a:hover {      
+  background-color: #ffffff30;
+}
